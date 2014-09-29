@@ -1,0 +1,22 @@
+{
+  "name": "IonCollectionView",
+  "main": "ionCollectionView.js",
+  "version": "1.0",
+  "description": "Angular directive for Ionic Framework, to make a collection view like iOS collection view and Android grid view.",
+  "authors": [
+    "Alan Pazetto <alancpazetto@gmail.com>",
+    "Alan Pazetto <alan@own.art.br> (http://own.art.br)"
+  ],
+  "license": "Apache License 2.0",
+  "homepage": "https://github.com/alancpazetto/ion-collection-view",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
